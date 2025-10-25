@@ -2,6 +2,7 @@
   "name": "mrbeast-community-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://elleliemandt.github.io/Beast",
   "dependencies": {
     "@types/node": "^16.18.108",
     "@types/react": "^18.3.12",
