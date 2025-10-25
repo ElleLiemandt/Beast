@@ -218,3 +218,11 @@ This project is created for educational and demonstration purposes, inspired by 
 **"No small act of kindness goes unnoticed... every one of you is pushing this kindness movement forward."** - Beast Philanthropy
 
 *Made with ❤️ for the next generation of changemakers*
+
+---
+
+## 🌐 Live Demo
+
+**Visit the live app at: https://elleliemandt.github.io/Beast**
+
+*Deployed via GitHub Pages - Making kindness cool, one click at a time!* ✨
